@@ -1,0 +1,85 @@
+#myheader {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-right: 1130px;
+    font-size: 55px;
+    text-align: center;
+  }
+
+.section-1{
+    display:flex;
+    gap: 60px;
+    margin-left: 10px;
+}
+.Week{
+    background-color: rgb(172, 179, 181);
+    text-align: center;
+    padding: 10px 10px ;
+    margin-top: 10px;
+    margin-left: 30px;
+    border-radius: 7px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.div{
+    display: flex;
+    margin-left: 150px;
+}
+
+.unbold{
+    font-weight: lighter;
+}
+
+.Ul-1{
+    background-color: rgba(206, 127, 243, 0.848);
+    text-align: center;
+    text-decoration: underline;
+    padding: 10px 15px ;
+    margin-top: 10px;
+    margin-left: 30px;
+    border-radius: 7px;
+    font-weight: bolder;
+}
+.Ul-2{
+    background-color: rgb(104, 188, 240);
+    text-align: center;
+    text-decoration: underline;
+    padding: 10px 15px ;
+    margin-top: 10px;
+    margin-left: 30px;
+    border-radius: 7px;
+    font-weight: bolder;
+}
+.Ul-3{
+    background-color: rgba(245, 114, 66, 0.808);
+    text-align: center;
+    text-decoration: underline;
+    padding: 10px 15px ;
+    margin-top: 10px;
+    margin-left: 30px;
+    border-radius: 7px;
+    font-weight: bolder;
+}
+.Ul-4{
+    background-color: rgba(43, 191, 63, 0.894);
+    text-align: center;
+    text-decoration: underline;
+    padding: 10px 15px ;
+    margin-top: 10px;
+    margin-left: 30px;
+    border-radius: 7px;
+    font-weight: bolder;
+}
+.Ul-5{
+    background-color: rgba(43, 191, 63, 0.894);
+    text-align: center;
+    text-decoration: underline;
+    padding: 10px 15px ;
+    margin-top: 5px;
+    margin-left: 180px;
+    margin-right: 1000px;
+    margin-bottom: 5px;
+    border-radius: 7px;
+    font-weight: bolder;
+}
